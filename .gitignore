@@ -1,3 +1,5 @@
+uni-resolver-driver-did-plc
+main
 *.o
 *.a
 *.pyc
